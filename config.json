@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maint_status": "Scheduled maintenance",
   "maint_title": "We'll be right back",
   "maint_desc": "Shadow Realm is getting server upgrades for better speed and stability. Your keys and balance are safe.",
