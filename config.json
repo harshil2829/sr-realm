@@ -1,0 +1,10 @@
+{
+  "maintenance": false,
+  "maint_status": "Scheduled maintenance",
+  "maint_title": "We'll be right back",
+  "maint_desc": "Shadow Realm is getting server upgrades for better speed and stability. Your keys and balance are safe.",
+  "maint_started": "2:00 PM IST",
+  "maint_eta": "About 4:30 PM IST",
+  "telegram_url": "https://t.me/shadowrealmofiicial",
+  "latest_version": "1.0"
+}
