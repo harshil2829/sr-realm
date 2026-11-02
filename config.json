@@ -1,1 +1,13 @@
-308810d68572533964fbff643ef048e8d3977efe36b760d5965a943772b3c8a38556cf6533dee68519cd008add2da84534694b94921f933d3b997ac355d0680468a7529aedffd2b2a72eb3246b811f244501fb7a2dbb71a79fb718bbb07c8caad90bb7bef35f305149c458c6b59e2bcffcac17d6c36497f5e953f64d50dc1a42aa66df0107cdd7b1e6623ae3ac3ecc680559b776b07be05548a651e5f02b592d19c374f3b41f741f984fd84f0b8a2edff1fece1d129f13b1b414b444c45feb83e72b844f497f2b7f3fbd7aa1fa2798edd0837af8f57abf111473917771ec0c2a5883363329ddfeba8a0fd8075e57e5194e3e8a5945cf1674388a74d5c244f99a6bd27dd6ee4c66722685ba2a7df34ae49fd901fd23ba318a9a72f5753fabddeadf18a32667efdfd023bc6e88d374eb0d73795b94921cc13137af61c55c9c334a29aa04c297acc8bfe53bf4277af118255009f12f65fe329c97ff12bef97d80ebc740fcdca75f705c4bdb1f99cbe17d88e3be17d7d919c9b0b801fa4752f434
+{
+  "maintenance": false,
+  "maint_status": "Scheduled maintenance",
+  "maint_title": "We'll be right back",
+  "maint_desc": "Shadow Realm is getting server upgrades for better speed and stability. Your keys and balance are safe.",
+  "maint_started": "2:00 PM IST",
+  "maint_eta": "About 4:30 PM IST",
+  "latest_version": "1.0",
+  "telegram_url": "https://t.me/shadowrealmofiicial",
+  "bin_max_url": "https://github.com/harshil2829/sr-realm/releases/download/v1.0/shadow.bin",
+  "bin_global_url": "https://github.com/harshil2829/sr-realm/releases/download/v1.0/shadow_global.bin",
+  "bin_india_url": "https://github.com/harshil2829/sr-realm/releases/download/v1.0/shadow_india.bin"
+}
